@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KOOLASH
+- 👋 Hi, I’m @Khaleel
 - 👀 I’m interested in Engineering, Robotics, R&D, Data Science and Tech.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on anything that is related to Tech.
